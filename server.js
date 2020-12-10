@@ -28,8 +28,9 @@ mongoose.connect(
 
 
 //Creating Routes
-require("../a/Apple/routes/apiRoutes")(app);
+require("./routes/apiRoutes")(app);
 require("./routes/htmlRoutes")(app);
+
 
 // Listen on port 3000
 app.listen(PORT, () => {
