@@ -13,6 +13,7 @@
 - [Usage](#usage)<br />
 - [License](#license)<br />
 - [Contributors](#contributors)<br />
+- [Deployed App](#deployed)<br />
 - [Video Tutorial](#video)<br />
 - [Questions](#questions)<br />
 
@@ -20,7 +21,7 @@
 ## Description ##
    An app that allows a user to log multiple exercises in a workout on a given day, to be able to track the name, type, weight, sets, reps, and duration of exercise. when the exercise is a cardio exercise, the user is able to track their distance traveled.
 ## Installation ##
-    npm i, node app.js
+    npm i, node server.js
 ## Usage ##
  To be able to view create and track daily workouts. 
 ## License ##
@@ -31,9 +32,13 @@
   Greg K. (tutur), Ask BCS
 
 
-## Video ##
-[Click here to view video tutorial](https://youtu.be/zsgDOiiWRCQ)
+## Deployed App ##
+[Click here to access the deployed app on Heroku](https://fierce-harbor-15977.herokuapp.com/?id=5fefb0efe2381700171b96b0)
 
+## Video Tuturial ##
+[Click here for a video tuturial of the app](https://youtu.be/bcOotFAUejE)
+
+https://youtu.be/bcOotFAUejE
 
  ##  Questions  ## 
  GitHub: [northjw1](https://github.com/northjw1) <br />
